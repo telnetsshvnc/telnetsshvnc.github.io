@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.stayhumble.site</id>
+    <title>个人博客</title>
+    <updated>2024-04-18T13:11:50.069Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.stayhumble.site"/>
+    <link rel="self" href="https://blog.stayhumble.site/atom.xml"/>
+    <subtitle>文明其精神，野蛮其体魄</subtitle>
+    <logo>https://blog.stayhumble.site/images/avatar.png</logo>
+    <icon>https://blog.stayhumble.site/favicon.ico</icon>
+    <rights>All rights reserved 2024, 个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[词句摘抄]]></title>
+        <id>https://blog.stayhumble.site/post/ci-ju-zhai-chao/</id>
+        <link href="https://blog.stayhumble.site/post/ci-ju-zhai-chao/">
+        </link>
+        <updated>2024-04-11T14:31:47.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>文明其精神，野蛮其体魄。</li>
+<li>无毒不是药，无药不是毒。</li>
+<li>《颂古五十五首其一》春有百花秋有月，夏有凉风冬有雪。莫将闲事挂心头，便是人间好时节。</li>
+<li>今人不见古时月，今月曾经照古人。</li>
+<li>不经一番寒彻骨，怎得梅花扑鼻香。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新博客搭建好了]]></title>
+        <id>https://blog.stayhumble.site/post/xin-bo-ke-da-jian-hao-liao/</id>
+        <link href="https://blog.stayhumble.site/post/xin-bo-ke-da-jian-hao-liao/">
+        </link>
+        <updated>2024-04-11T14:12:06.000Z</updated>
+        <content type="html"><![CDATA[<p>家里用的WordPress搭建的博客网站用了快一年了还是没有输出几篇博客哈哈，第一个是ipv6才能访问，有时候公司或者酒店没有ipv6网路就访问不了，然后别人也不能浏览所以动力方面还是有些欠缺吧。这次用Gridea和github pages的方式简单快捷，希望能贡献更多的博客哈哈。加油！</p>
+]]></content>
+    </entry>
+</feed>
